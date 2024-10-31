@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "577256798921",
+    "project_id": "latihan-22312155",
+    "storage_bucket": "latihan-22312155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577256798921:android:f2857b4bc2a4aa0dc12b18",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3lQ9gU2FCwkmldyXJI7AVJ7TlNSZ6yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577256798921:android:8367f6c078e20dd8c12b18",
+        "android_client_info": {
+          "package_name": "com.ryan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3lQ9gU2FCwkmldyXJI7AVJ7TlNSZ6yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577256798921:android:2182ba4ff49b0e5dc12b18",
+        "android_client_info": {
+          "package_name": "com.ryandika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3lQ9gU2FCwkmldyXJI7AVJ7TlNSZ6yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
